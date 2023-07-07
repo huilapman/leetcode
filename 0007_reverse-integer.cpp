@@ -6,22 +6,20 @@ public:
             return 0;
         }
         if (a < 0) {
-            a = a * -1;
+            a *= -1;
         } 
 
         while (a > 9) {
             y = a % 10;
             a /= 10;
-            result *= 10;
-            result += y;
+            result = result * 10 + y;
         }
 
         if (result > INT_MAX/10) {
             return 0;
         }
         else {
-            result *= 10;
-            result += a;
+            result = result * 10 + a;
         }
         
         if (x<0) {
@@ -31,5 +29,3 @@ public:
         return result;
     }
 };
-
-
