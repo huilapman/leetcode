@@ -1,6 +1,7 @@
 # LeetCode in C++
 
-| Problem | URL                                                               |
+
+| Problem | Array / String                                                    |
 |---------|-------------------------------------------------------------------|
 | 7.      | https://leetcode.com/problems/reverse-integer/                    |
 | 13.     | https://leetcode.com/problems/roman-to-integer/                   | 
