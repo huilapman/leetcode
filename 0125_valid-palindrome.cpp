@@ -15,21 +15,20 @@ public:
     bool isPalindrome(string s) {
         int n = s.size();
         int j = n-1;
-        bool result = true;
+
         for (int i = 0; i < n; ++i) {
-            if (isAlphaNumeric(s[i])) {
-               while (!isAlphaNumeric(s[j])) {
+            if (isalnum(s[i])) {
+               while (!isalnum(s[j])) {
                    --j;
                }
-               if (toLower(s[i]) == toLower(s[j])) {
+               if (tolower(s[i]) == tolower(s[j])) {
                    --j;
                }
                else {
-                   result = false;
-                   break;
+                   return false;
                }
             } 
         }
-        return result;
+        return true;
     }
 };
