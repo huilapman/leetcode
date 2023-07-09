@@ -13,10 +13,8 @@ public:
         return c;
     }
     bool isPalindrome(string s) {
-        int n = s.size();
-        int j = n-1;
-
-        for (int i = 0; i < n; ++i) {
+        int j = s.size()-1;
+        for (int i = 0; i < s.size(); ++i) {
             if (isalnum(s[i])) {
                while (!isalnum(s[j])) {
                    --j;
