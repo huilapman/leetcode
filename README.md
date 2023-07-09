@@ -9,4 +9,5 @@
 | 58.     | https://leetcode.com/problems/length-of-last-word/                |
 | 121.    | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/    | 
 | 122.    | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ |
+| 125.    | https://leetcode.com/problems/valid-palindrome/                   |
     
