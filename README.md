@@ -19,3 +19,6 @@ https://leetcode.com/studyplan/top-interview-150/
 |---------|-------------------------------------------------------------------|
 | 48.     | https://leetcode.com/problems/rotate-image/                       |
 
+| Problem | Maths                                                             |
+|---------|-------------------------------------------------------------------|
+| 50.     | https://leetcode.com/problems/powx-n/                             |
