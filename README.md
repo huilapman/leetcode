@@ -6,10 +6,12 @@ https://leetcode.com/studyplan/top-interview-150/
 |---------|-------------------------------------------------------------------|
 | 7.      | https://leetcode.com/problems/reverse-integer/                    |
 | 13.     | https://leetcode.com/problems/roman-to-integer/                   | 
+| 26.     | https://leetcode.com/problems/remove-duplicates-from-sorted-array |
 | 27.     | https://leetcode.com/problems/remove-element/                     |
 | 58.     | https://leetcode.com/problems/length-of-last-word/                |
 | 121.    | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/    | 
 | 122.    | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ |
+
 
 | Problem | Two Pointers                                                      |
 |---------|-------------------------------------------------------------------|
