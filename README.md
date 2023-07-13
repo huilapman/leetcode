@@ -12,6 +12,9 @@ https://leetcode.com/studyplan/top-interview-150/
 | 121.    | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/    | 
 | 122.    | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ |
 
+| Problem | Bit Manipulation                                                  |
+|---------|-------------------------------------------------------------------|
+| 67.     | https://leetcode.com/problems/add-binary/                         |
 
 | Problem | Two Pointers                                                      |
 |---------|-------------------------------------------------------------------|
