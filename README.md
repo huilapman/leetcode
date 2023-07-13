@@ -22,7 +22,11 @@ https://leetcode.com/studyplan/top-interview-150/
 | Problem | Maths                                                             |
 |---------|-------------------------------------------------------------------|
 | 50.     | https://leetcode.com/problems/powx-n/                             |
+| 69.     | https://leetcode.com/problems/sqrtx/                              |
 
+| Problem | Intervals                                                         |
+|---------|-------------------------------------------------------------------|
+| 228.    | https://leetcode.com/problems/summary-ranges/                     |
 
 | Problem | Hashmap                                                           |
 |---------|-------------------------------------------------------------------|
