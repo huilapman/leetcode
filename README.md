@@ -22,3 +22,9 @@ https://leetcode.com/studyplan/top-interview-150/
 | Problem | Maths                                                             |
 |---------|-------------------------------------------------------------------|
 | 50.     | https://leetcode.com/problems/powx-n/                             |
+
+
+| Problem | Hashmap                                                           |
+|---------|-------------------------------------------------------------------|
+| 202.    | https://leetcode.com/problems/happy-number/                       |
+
