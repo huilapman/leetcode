@@ -11,7 +11,7 @@ https://leetcode.com/studyplan/top-interview-150/
 | 58.     | https://leetcode.com/problems/length-of-last-word/                |
 | 121.    | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/    | 
 | 122.    | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ |
-| 169.    | https://leetcode.com/problems/majority-element                    |
+| 169.    | https://leetcode.com/problems/majority-element/                   |
 
 | Problem | Bit Manipulation                                                  |
 |---------|-------------------------------------------------------------------|
