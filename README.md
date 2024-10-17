@@ -17,6 +17,7 @@ https://leetcode.com/studyplan/top-interview-150/
 | Problem | Bit Manipulation                                                  |
 |---------|-------------------------------------------------------------------|
 | 67.     | https://leetcode.com/problems/add-binary/                         |
+| 136.    | [Single Number](https://leetcode.com/problems/single-number)      |
 | 190.    | [Reverse Bits](https://leetcode.com/problems/reverse-bits)        |
 | 191.    | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|
 
