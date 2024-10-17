@@ -9,6 +9,7 @@ https://leetcode.com/studyplan/top-interview-150/
 | 26.     | https://leetcode.com/problems/remove-duplicates-from-sorted-array |
 | 27.     | https://leetcode.com/problems/remove-element/                     |
 | 58.     | https://leetcode.com/problems/length-of-last-word/                |
+| 88.     | https://leetcode.com/problems/merge-sorted-array/                 | 
 | 121.    | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/    | 
 | 122.    | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ |
 | 169.    | https://leetcode.com/problems/majority-element/                   |
