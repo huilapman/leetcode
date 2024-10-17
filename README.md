@@ -18,6 +18,7 @@ https://leetcode.com/studyplan/top-interview-150/
 |---------|-------------------------------------------------------------------|
 | 67.     | https://leetcode.com/problems/add-binary/                         |
 | 190.    | [Reverse Bits](https://leetcode.com/problems/reverse-bits)        |
+| 191.    | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|
 
 | Problem | Two Pointers                                                      |
 |---------|-------------------------------------------------------------------|
