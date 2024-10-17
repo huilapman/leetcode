@@ -17,6 +17,7 @@ https://leetcode.com/studyplan/top-interview-150/
 | Problem | Bit Manipulation                                                  |
 |---------|-------------------------------------------------------------------|
 | 67.     | https://leetcode.com/problems/add-binary/                         |
+| 190.    | [Reverse Bits](https://leetcode.com/problems/reverse-bits)        |
 
 | Problem | Two Pointers                                                      |
 |---------|-------------------------------------------------------------------|
