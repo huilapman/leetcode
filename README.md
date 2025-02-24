@@ -40,6 +40,7 @@ https://leetcode.com/studyplan/top-interview-150/
 
 | Problem | Hashmap                                                           |
 |---------|-------------------------------------------------------------------|
+| 1.      | [Two Sum](https://leetcode.com/problems/two-sum)                  |                   
 | 202.    | https://leetcode.com/problems/happy-number/                       |
 
 | Problem | Stack                                                             |
