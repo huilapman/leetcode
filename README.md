@@ -42,3 +42,6 @@ https://leetcode.com/studyplan/top-interview-150/
 |---------|-------------------------------------------------------------------|
 | 202.    | https://leetcode.com/problems/happy-number/                       |
 
+| Problem | Stack                                                             |
+|---------|-------------------------------------------------------------------|
+| 71.     | https://leetcode.com/problems/simplify-path/                      |
